@@ -1,3 +1,3 @@
-This repo explores working with theb python PuLP library for Linear Programming.
+This repo explores working with the python PuLP library for Linear Programming.
 
-PuLP: https://github.com/coin-or/pulp
+PuLP can be found here: https://github.com/coin-or/pulp
